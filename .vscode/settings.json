@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "cmath": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp"
+    }
+}

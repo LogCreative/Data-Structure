@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lizil\Desktop\第二学期\数据结构\Assignment\1202\</FILEPATH>
+      <FILENAME>1202.cpp</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sLinkListBigInt::node::data' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sLinkListBigInt::node::{ctor}</FUNCTION>
+    <DECORATED>??0node@sLinkListBigInt@@QAE@XZ</DECORATED>
+    <FUNCLINE>71</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>sLinkListBigInt::node::data</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
