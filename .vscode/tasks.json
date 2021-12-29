@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "g++.exe build active file",
-            "command": "C:\\MinGW\\bin\\g++.exe",
+            "command": "C:\\Strawberry\\c\\bin\\g++.exe",
             "args": [
                 "-g",
                 "${file}",
@@ -17,7 +17,7 @@
                 "-static"
             ],
             "options": {
-                "cwd": "C:\\MinGW\\bin"
+                "cwd": "C:\\Strawberry\\c\\bin"
             },
             "problemMatcher": [
                 "$gcc"

@@ -6,7 +6,7 @@
 |👌215. 数组中的第K个最大元素|14|https://leetcode-cn.com/problems/kth-largest-element-in-an-array|
 |👌236. 二叉树的最近公共祖先|10|https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree|
 |👌206. 反转链表|9|https://leetcode-cn.com/problems/reverse-linked-list|
-|48. 旋转图像|9|https://leetcode-cn.com/problems/rotate-image|
+|👌48. 旋转图像|9|https://leetcode-cn.com/problems/rotate-image|
 |124. 二叉树中的最大路径和|7|https://leetcode-cn.com/problems/binary-tree-maximum-path-sum|
 |53. 最大子序和|7|https://leetcode-cn.com/problems/maximum-subarray|
 |91. 解码方法|6|https://leetcode-cn.com/problems/decode-ways|
