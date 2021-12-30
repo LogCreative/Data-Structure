@@ -47,7 +47,7 @@ class Solution {
 
 public:
     int maxPathSum(TreeNode* root) {
-        closedmax = root->val; // just initialize it with an arbitraty node.
+        closedmax = root->val; // just initialize it with an arbitrary node.
         dfs(root);
         return closedmax;
     }
