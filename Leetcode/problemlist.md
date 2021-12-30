@@ -9,7 +9,7 @@
 |👌48. 旋转图像|9|https://leetcode-cn.com/problems/rotate-image|
 |👌124. 二叉树中的最大路径和|7|https://leetcode-cn.com/problems/binary-tree-maximum-path-sum|
 |👌53. 最大子序和|7|https://leetcode-cn.com/problems/maximum-subarray|
-|91. 解码方法|6|https://leetcode-cn.com/problems/decode-ways|
+|👌91. 解码方法|6|https://leetcode-cn.com/problems/decode-ways|
 |👌151. 翻转字符串里的单词|6|https://leetcode-cn.com/problems/reverse-words-in-a-string|
 |543. 二叉树的直径|6|https://leetcode-cn.com/problems/diameter-of-binary-tree|
 |297. 二叉树的序列化与反序列化|6|https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree|
