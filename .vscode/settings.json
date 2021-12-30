@@ -9,6 +9,10 @@
         "unordered_map": "cpp",
         "cmath": "cpp",
         "iterator": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
     }
 }

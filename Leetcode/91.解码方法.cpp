@@ -14,54 +14,40 @@ using namespace std;
 
 // @lc code=start
 class Solution {
-    string str;
-    int ans;
-
-    // X Y Z -> X 
-    // ^     
-
-    //  12 ->  1 2 ->  1 2 
-    // ^        ^          ^
-    // 0        0          0
-    //                     2
-    //          1         12
-    //                     2
-
-    int startsfrom(int cur, int pos){
-        if (pos == str.length()){
-            return 1;   // a solution
-        }
-        int num = str[pos] - '0';
-        if (cur == 0 && num == 0)
-            return ;
-
-        if (cur + num <= 26){
-            startsfrom(0, pos + 1);
-        }
-        if (cur == 0)
-            startsfrom(num, pos + 1);
-        
-        // if (cur == 0){
-        //     if (num == 0){
-        //         // starts at 0, no solution
-        //         return ;
-        //     }
-        //     // single number
-        //     // startsfrom(0, pos + 1);
-        //     startsfrom(num, pos + 1);
-        // } else {
-        //     if (cur + num <= 26){
-        //         startsfrom(0, pos + 1);
-        //     }
-        //     // startsfrom(num, pos + 1);
-        // }
-    }
 public:
+    // talk about contribution.
     int numDecodings(string s) {
-        str = s;
-        ans = 0;
-        startsfrom(0, 0);
-        return ans;
+        int n = s.size();
+        if (s[0] == '0'){
+            return 0;       // no solution.
+        }
+        // vector<int> f;
+        // f.push_back(1);
+        // f.push_back(1);
+        int cur = 1; int pre = 1;
+        for (int i = 1; i < n; ++i){
+            if (s[i] == '0'){
+                if (s[i-1] == '1' || s[i-1] == '2'){
+                    // f.push_back(f[i-2+1]);
+                    int tmp = pre;
+                    pre = cur;
+                    cur = tmp;
+                } else return 0;    // 30 cannot be decoded.
+            } else {
+                if (s[i-1] == '1' || 
+                    (s[i-1] == '2' && s[i] <= '6')){
+                        // f.push_back(f[i-1+1]+f[i-2+1]);
+                        int tmp = pre + cur;
+                        pre = cur;
+                        cur = tmp;
+                    }
+                else {
+                    // f.push_back(f[i-1+1]);
+                    pre = cur;
+                }
+            }
+        }
+        return cur;
     }
 };
 // @lc code=end
