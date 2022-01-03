@@ -48,7 +48,7 @@ public:
             if (!q.empty()) ser += ',';
         }
         ser += "]";
-        cout << ser << endl;
+        // cout << ser << endl;
         return ser;
     }
 
@@ -84,13 +84,13 @@ public:
                     state = 0;
                     if (q.front()!=nullptr){
                         q.front()->right = head;
-                        cout << q.front()->val << "r " << num << endl;
+                        // cout << q.front()->val << "r " << num << endl;
                     }
                     q.pop();
                 } else if (state == 1){
                     if (q.front()!=nullptr) {
                         q.front()->left = head;
-                        cout << q.front()->val << "l " << num << endl;
+                        // cout << q.front()->val << "l " << num << endl;
                     }
                 }
                 num = 0;
