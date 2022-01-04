@@ -14,7 +14,7 @@
 |👌543. 二叉树的直径|6|https://leetcode-cn.com/problems/diameter-of-binary-tree|
 |👌297. 二叉树的序列化与反序列化|6|https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree|
 |👌146. LRU缓存机制|5|https://leetcode-cn.com/problems/lru-cache|
-|450. 删除二叉搜索树中的节点|5|https://leetcode-cn.com/problems/delete-node-in-a-bst|
+|👌450. 删除二叉搜索树中的节点|5|https://leetcode-cn.com/problems/delete-node-in-a-bst|
 |22. 括号生成|5|https://leetcode-cn.com/problems/generate-parentheses|
 |47. 全排列 II|5|https://leetcode-cn.com/problems/permutations-ii|
 |224. 基本计算器|5|https://leetcode-cn.com/problems/basic-calculator|
