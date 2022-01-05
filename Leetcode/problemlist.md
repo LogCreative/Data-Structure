@@ -31,7 +31,7 @@
 |69. x 的平方根|4|https://leetcode-cn.com/problems/sqrtx|
 |240. 搜索二维矩阵 II|4|https://leetcode-cn.com/problems/search-a-2d-matrix-ii|
 |4. 寻找两个正序数组的中位数|3|https://leetcode-cn.com/problems/median-of-two-sorted-arrays|
-|❗103. 二叉树的锯齿形层次遍历|3|https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal|
+|👌103. 二叉树的锯齿形层次遍历|3|https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal|
 |560. 和为K的子数组|3|https://leetcode-cn.com/problems/subarray-sum-equals-k|
 |162. 寻找峰值|3|https://leetcode-cn.com/problems/find-peak-element|
 |62. 不同路径|3|https://leetcode-cn.com/problems/unique-paths|
