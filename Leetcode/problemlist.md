@@ -31,11 +31,11 @@
 |69. x 的平方根|4|https://leetcode-cn.com/problems/sqrtx|
 |240. 搜索二维矩阵 II|4|https://leetcode-cn.com/problems/search-a-2d-matrix-ii|
 |4. 寻找两个正序数组的中位数|3|https://leetcode-cn.com/problems/median-of-two-sorted-arrays|
-|103. 二叉树的锯齿形层次遍历|3|https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal|
+|❗103. 二叉树的锯齿形层次遍历|3|https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal|
 |560. 和为K的子数组|3|https://leetcode-cn.com/problems/subarray-sum-equals-k|
 |162. 寻找峰值|3|https://leetcode-cn.com/problems/find-peak-element|
 |62. 不同路径|3|https://leetcode-cn.com/problems/unique-paths|
-|72. 编辑距离|3|https://leetcode-cn.com/problems/edit-distance|
+|❗72. 编辑距离|3|https://leetcode-cn.com/problems/edit-distance|
 |200. 岛屿数量|3|https://leetcode-cn.com/problems/number-of-islands|
 |89. 格雷编码|3|https://leetcode-cn.com/problems/gray-code|
 |98. 验证二叉搜索树|3|https://leetcode-cn.com/problems/validate-binary-search-tree|
@@ -179,7 +179,7 @@
 |179. 最大数|1|https://leetcode-cn.com/problems/largest-number|
 |513. 找树左下角的值|1|https://leetcode-cn.com/problems/find-bottom-left-tree-value|
 |133. 克隆图|1|https://leetcode-cn.com/problems/clone-graph|
-|99. 恢复二叉搜索树|1|https://leetcode-cn.com/problems/recover-binary-search-tree|
+|❗99. 恢复二叉搜索树|1|https://leetcode-cn.com/problems/recover-binary-search-tree|
 |剑指 Offer 48. 最长不含重复字符的子字符串|1|https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof|
 |168. Excel表列名称|1|https://leetcode-cn.com/problems/excel-sheet-column-title|
 |2. 两数相加|1|https://leetcode-cn.com/problems/add-two-numbers|
