@@ -4,6 +4,8 @@
 #include<vector>
 using namespace std;
 
+// This is a backtracing.
+
 class Solution {
     int size;
     vector<vector<string>> res;

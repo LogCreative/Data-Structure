@@ -43,7 +43,7 @@
 |384. 打乱数组|3|https://leetcode-cn.com/problems/shuffle-an-array|
 |37. 解数独|3|https://leetcode-cn.com/problems/sudoku-solver|
 |36. 有效的数独|3|https://leetcode-cn.com/problems/valid-sudoku|
-|面试题 08.12. 八皇后|3|https://leetcode-cn.com/problems/eight-queens-lcci|
+|👌面试题 08.12. 八皇后|3|https://leetcode-cn.com/problems/eight-queens-lcci|
 |141. 环形链表|3|https://leetcode-cn.com/problems/linked-list-cycle|
 |153. 寻找旋转排序数组中的最小值|3|https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array|
 |33. 搜索旋转排序数组|3|https://leetcode-cn.com/problems/search-in-rotated-sorted-array|
@@ -56,7 +56,7 @@
 |154. 寻找旋转排序数组中的最小值 II|2|https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii|
 |283. 移动零|2|https://leetcode-cn.com/problems/move-zeroes|
 |10. 正则表达式匹配|2|https://leetcode-cn.com/problems/regular-expression-matching|
-|79. 单词搜索|2|https://leetcode-cn.com/problems/word-search|
+|👌79. 单词搜索|2|https://leetcode-cn.com/problems/word-search|
 |剑指 Offer 52. 两个链表的第一个公共节点|2|https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof|
 |76. 最小覆盖子串|2|https://leetcode-cn.com/problems/minimum-window-substring|
 |449. 序列化和反序列化二叉搜索树|2|https://leetcode-cn.com/problems/serialize-and-deserialize-bst|
