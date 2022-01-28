@@ -16,8 +16,8 @@
 |👌146. LRU缓存机制|5|https://leetcode-cn.com/problems/lru-cache|
 |👌450. 删除二叉搜索树中的节点|5|https://leetcode-cn.com/problems/delete-node-in-a-bst|
 |👌22. 括号生成|5|https://leetcode-cn.com/problems/generate-parentheses|
-|47. 全排列 II|5|https://leetcode-cn.com/problems/permutations-ii|
-|224. 基本计算器|5|https://leetcode-cn.com/problems/basic-calculator|
+|👌47. 全排列 II|5|https://leetcode-cn.com/problems/permutations-ii|
+|👌224. 基本计算器|5|https://leetcode-cn.com/problems/basic-calculator|
 |468. 验证IP地址|4|https://leetcode-cn.com/problems/validate-ip-address|
 |110. 平衡二叉树|4|https://leetcode-cn.com/problems/balanced-binary-tree|
 |94. 二叉树的中序遍历|4|https://leetcode-cn.com/problems/binary-tree-inorder-traversal|
