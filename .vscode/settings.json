@@ -15,6 +15,7 @@
         "vector": "cpp",
         "xstring": "cpp",
         "queue": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "stack": "cpp"
     }
 }
