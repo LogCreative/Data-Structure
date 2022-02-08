@@ -23,7 +23,7 @@
 |👌94. 二叉树的中序遍历|4|https://leetcode-cn.com/problems/binary-tree-inorder-traversal|
 |👌15. 三数之和|4|https://leetcode-cn.com/problems/3sum|
 |👌121. 买卖股票的最佳时机|4|https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock|
-|39. 组合总和|4|https://leetcode-cn.com/problems/combination-sum|
+|👌39. 组合总和|4|https://leetcode-cn.com/problems/combination-sum|
 |1. 两数之和|4|https://leetcode-cn.com/problems/two-sum|
 |3. 无重复字符的最长子串|4|https://leetcode-cn.com/problems/longest-substring-without-repeating-characters|
 |👌207. 课程表|4|https://leetcode-cn.com/problems/course-schedule|
