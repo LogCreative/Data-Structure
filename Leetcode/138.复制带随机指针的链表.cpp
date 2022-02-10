@@ -105,6 +105,8 @@ public:
         oldnode    oldnode    oldnode
             \     /     \     /    \
             newnode     newnode     newnode
+        This method breaks the integrity of the orginal array.
+        And Hashing method will cost the complexity of data structure.
     */
 };
 // @lc code=end
