@@ -3689,8 +3689,21 @@ void heapSort(SET<KEY,OTHER> a[], int size){
     }
 }
 
-// 下标从0开始
+// 下标从0开始，请注意递增序列用最大堆！
 // percolateDown
+void percolateDown(vector<int>& nums, int hole, int len){
+    int child;
+    int tmp = nums[hole];
+    for (; hole*2<len-1;hole=child){    // 从0
+        child=hole*2+1;                 // 从0
+        if (child!=len-1&&nums[child+1]>nums[child])    // 从0，大根
+            ++child;
+        if (nums[child]>tmp)            // 大根
+            nums[hole]=nums[child];
+        else break;
+    }
+    nums[hole] = tmp;
+}
 ```
 
 交换排序
