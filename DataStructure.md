@@ -4038,7 +4038,7 @@ private:
     int size;
     int *parent;
 public:
-    DisjointSet(int s){
+    DisjointSet(int n){
         size = n;
         parent = new int[size];
         for(int i=0;i<size;++i)
