@@ -732,29 +732,29 @@ public:
  */
 
 int main(){
-    // AvlTree<int,char> at;
-    // for(int i=5;i>=0;--i)
-    //     at.insert({i,'\0'});
+    AvlTree<int,char> at;
+    for(int i=5;i>=0;--i)
+        at.insert({i,'\0'});
 
-    // AATree<int,char> aa;
-    // for(int i=5;i>=0;--i)
-    //     aa.insert({i,'\0'});
+    AATree<int,char> aa;
+    for(int i=5;i>=0;--i)
+        aa.insert({i,'\0'});
 
-    // RedBlackTree<int,char> rb;
-    // for(int i=5;i>=0;--i)
-    //     rb.insert({i,'\0'});
+    RedBlackTree<int,char> rb;
+    for(int i=5;i>=0;--i)
+        rb.insert({i,'\0'});
 
-    // closeHashTable<int,char> cht;
-    // for(int i=25;i>=0;--i)
-    //     cht.insert({i,'\0'});
+    closeHashTable<int,char> cht;
+    for(int i=25;i>=0;--i)
+        cht.insert({i,'\0'});
 
-    // openHashTable<int,char> oht;
-    // for(int i=25;i>=0;--i)
-    //     oht.insert({i,'\0'});
+    openHashTable<int,char> oht;
+    for(int i=25;i>=0;--i)
+        oht.insert({i,'\0'});
 
     // MyHashSet hashSet();
-    // hashSet->add(1);         
-    // hashSet->add(2);         
+    // hashSet.add(1);         
+    // hashSet.add(2);         
     // hashSet.contains(1);    // 返回 true
     // hashSet.contains(3);    // 返回 false (未找到)
     // hashSet.add(2);          

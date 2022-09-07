@@ -9,11 +9,10 @@ struct SET {
 
 template<class KEY,class OTHER>
 int seqSearch(SET<KEY,OTHER> data[], int size, const KEY &x){
-    data[0].key = x;
+    data[0].key = x;        // GUARD
     int i;
     for(i=size;x<data[i].key;--i);
-    if(x==data[i].key) return i;
-    else return 0;
+    return i;
 }
 
 template<class KEY,class OTHER>

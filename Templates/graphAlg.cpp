@@ -405,6 +405,7 @@ void adjListGraph<TypeOfVer, TypeOfEdge>::criticalPath() const
 template<class TypeOfVer, class TypeOfEdge>
 void adjListGraph<TypeOfVer, TypeOfEdge>::kruskal() const
 {
+    // O(ElogE) 适合于稀疏图
     struct edge {
         int beg, end;
         TypeOfEdge w;
@@ -442,6 +443,7 @@ void adjListGraph<TypeOfVer, TypeOfEdge>::kruskal() const
 template<class TypeOfVer, class TypeOfEdge>
 void adjListGraph<TypeOfVer, TypeOfEdge>::prim(TypeOfEdge noEdge) const
 {
+    // O(|V|^2)  适合于稠密图
     bool* flag = new bool[Vers];
     TypeOfEdge* lowCost = new TypeOfEdge[Vers];
     int* startNode = new int[Vers];
